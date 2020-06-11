@@ -8,11 +8,5 @@ O projeto "BiblioSoft" é um software para gerenciamento de bibliotecas. O progr
 Funcionalidades do projeto:
 
 O projeto ainda fornece as seguintes funcionalidades: Cadastrar e pesquisar alunos, permite o cadastro de livros para empréstimos, sistema de empréstimos com datas, registra e gerencia multas, atribuindo um valor e pesquisando multas por nome.
-
-******
-Status do projeto:
-
-Projeto em desenvolvimento.
-
 ******
 Autor : Igor Zollim Silveira, estudante de Análise e Desenvolvimento de Sistemas, IFRS,Brasil.
