@@ -1,27 +1,30 @@
 # Sistema para Livrarias
 
-Visão Geral:
+### Visão Geral:
 
 O projeto "BiblioSoft" é um software para gerenciamento de bibliotecas. O programa foi produzido na linguagem de programação Java e Banco de dados MySQL. O sistema possui uma interface gráfica, também feita em Java, para facilitar o acesso as funcionalidades do projeto.
 
 ******
-Funcionalidades do projeto:
+### Funcionalidades do projeto:
 
 O projeto ainda fornece as seguintes funcionalidades: Cadastrar e pesquisar alunos, permite o cadastro de livros para empréstimos, sistema de empréstimos com datas, registra e gerencia multas, atribuindo um valor e pesquisando multas por nome.
 
 ******
-Imagens do projeto:
+### Imagens do projeto:
 
-Tela de Empréstimos:
+#### Tela de Empréstimos:
+<br />
 <img src="https://github.com/igorzs/Sistema-LivrariaJava/blob/master/Imagens%20do%20projeto/tela-emprestimos.png" />
 
-Tela de pesquisa de Alunos:
+#### Tela de pesquisa de Alunos:
+<br />
 <img src="https://github.com/igorzs/Sistema-LivrariaJava/blob/master/Imagens%20do%20projeto/tela-aluno.png" />
 
-Tela de registro de multas por atraso:
+#### Tela de registro de multas por atraso:
+<br />
 <img src="https://github.com/igorzs/Sistema-LivrariaJava/blob/master/Imagens%20do%20projeto/tela-multa.png" />
 
-Modelagem do banco de dados:
+#### Modelagem do banco de dados:
 <br />
 <img src="https://github.com/igorzs/Sistema-LivrariaJava/blob/master/Imagens%20do%20projeto/modelagem.png" />
 
