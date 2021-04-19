@@ -22,6 +22,7 @@ Tela de registro de multas por atraso:
 <img src="https://github.com/igorzs/Sistema-LivrariaJava/blob/master/Imagens%20do%20projeto/tela-multa.png" />
 
 Modelagem do banco de dados:
+<br />
 <img src="https://github.com/igorzs/Sistema-LivrariaJava/blob/master/Imagens%20do%20projeto/modelagem.png" />
 
 ******
