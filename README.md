@@ -35,5 +35,5 @@ O projeto ainda fornece as seguintes funcionalidades: Cadastrar e pesquisar alun
 <a href="mailto:igorzollimsilveira@gmail.com"><img src="https://img.shields.io/badge/-igorzollimsilveira@gmail.com-2978b5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igorzollimsilveira@gmail.com"/></a>
 <a href="https://www.facebook.com/igor.zollim/"><img src="https://img.shields.io/badge/-Facebook-2978b5?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/igor.zollim/"/></a>
 <a href="https://www.instagram.com/igor.zollim/"><img src="https://img.shields.io/badge/-Instagram-2978b5?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/igor.zollim/"/></a>
-<a href="https://igorzs.github.io/portfolio/"><img src="https://img.shields.io/badge/-Acessar%20Portfolio-2978b5?style=flat-square&logo=github&logoColor=white&link=https://igorzs.github.io/portfolio/"/></a>
+<a href="https://igorzs.github.io/portfolio/"><img src="https://img.shields.io/badge/-Acessar%20Portf%C3%B3lio-2978b5?style=flat-square&logo=github&logoColor=white&link=https://igorzs.github.io/portfolio/"/></a>
 </p>
